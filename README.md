@@ -1,3 +1,13 @@
+# **PS: This is just a fork of XeroLinux's old deleted rice. The creator said this is very bloated, but this repo exists just on the purpose of archiving. 
+
+All credits go to @TechXero as I didn't write any of this. 
+
+_________________
+
+<ins>***==========================================================================================***<ins>
+
+_________________
+
 # This is XeroLinux's Dracul Rice
 
 -> Some notes before proceeding :
@@ -49,4 +59,3 @@ Just clone this repository, run terminal inside directory and run installer will
 # Disclosure
 
 > Use this at your own Risk ! I won't be held liable if you didn't follow above recommendations.... Always Backup.. If you don't and break your system it's on you !!!!
-# xero-dracul-git
