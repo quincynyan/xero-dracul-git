@@ -8,7 +8,7 @@
 
 > This rice as with all rices is not recommended to be used on lower-end hardware. iGPUs and less than 4GB RAM will result in sluggish and sometimes laggy behaviour. It's all due to Latte-Dock it's a memory hog, especially when using it way I do in my rices (sometimes 3 latte panels one dock). You've been warned. If you still insist on installing on lower-end systems, don't come to me asking for help..
 
-![XeroDracul](https://i.imgur.com/Atd9F6j.jpg)
+![XeroDracul](https://i.imgur.com/eDxIOhk.jpg)
 
 # Requirement for *Other* Arch KDE Distros ...
 
@@ -27,7 +27,7 @@ Save the file, and refresh databases via `sudo pacman -Sy` then follow below ste
 
 Just clone this repository, run terminal inside directory and run installer will do the following steps :
 
-`git clone https://github.com/xerolinux/xero-dracul-git.git && cd xero-dracul-git && ./install.sh`
+`git clone https://github.com/quincynyan/xero-dracul-git.git && cd xero-dracul-git && ./install.sh`
 
 - Create a cbackup of your ~/.config folders
 - Download and install necessary packages if needed...
