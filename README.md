@@ -1,6 +1,6 @@
 # **PS: This is just a fork of XeroLinux's old deleted rice. The creator said this is very bloated, but this repo exists just on the purpose of archiving. 
 
-All credits go to @TechXero as I didn't write any of this. 
+All credits go to [@TechXero](https://github.com/TechXero) as I didn't write any of this. 
 
 _________________
 
